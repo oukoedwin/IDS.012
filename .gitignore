@@ -1,0 +1,4 @@
+.venv
+data/combined.csv
+data/generators.csv
+.DS_Store

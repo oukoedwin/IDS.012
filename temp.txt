@@ -1,0 +1,53 @@
+
+Cluster 6: W = 0.6546347, p = 0.0000001
+Cluster 5: W = 0.5731532, p = 0.0000000
+Cluster 2: W = 0.9517638, p = 0.0807189
+Cluster 1: W = 0.6093266, p = 0.0000000
+Cluster 0: W = 0.1993297, p = 0.0000000
+Cluster 8: W = 0.3785141, p = 0.0000000
+Cluster 3: W = 0.8409434, p = 0.0000089
+Cluster 4: W = 0.4401890, p = 0.0000000
+Cluster 7: W = 0.4993415, p = 0.0000013
+
+Data not normally distributed - using Kruskal-Wallis
+Kruskal-Wallis results: H = 107.4894371, p = 0.0000000
+
+Overall test significant - performing pairwise comparisons
+
+Pairwise Mann-Whitney U tests with Bonferroni correction:
+Cluster 1 vs 0: U = 8322.0000000, p = 0.0000000 *
+Cluster 1 vs 3: U = 2169.0000000, p = 0.0045065 
+Cluster 1 vs 2: U = 2363.0000000, p = 0.7080616 
+Cluster 1 vs 6: U = 2771.5000000, p = 0.0014447 
+Cluster 1 vs 4: U = 2911.5000000, p = 0.0000068 *
+Cluster 1 vs 5: U = 2573.0000000, p = 0.0000656 *
+Cluster 1 vs 8: U = 2296.5000000, p = 0.0007140 *
+Cluster 1 vs 7: U = 1570.0000000, p = 0.0003292 *
+Cluster 0 vs 3: U = 578.0000000, p = 0.0000000 *
+Cluster 0 vs 2: U = 827.0000000, p = 0.0000000 *
+Cluster 0 vs 6: U = 1203.0000000, p = 0.0192440 
+Cluster 0 vs 4: U = 1433.0000000, p = 0.8328946 
+Cluster 0 vs 5: U = 1342.0000000, p = 0.8722766 
+Cluster 0 vs 8: U = 1247.0000000, p = 0.8786975 
+Cluster 0 vs 7: U = 774.0000000, p = 1.0000000 
+Cluster 3 vs 2: U = 1195.0000000, p = 0.1763609 
+Cluster 3 vs 6: U = 1362.0000000, p = 0.0000031 *
+Cluster 3 vs 4: U = 1377.0000000, p = 0.0000000 *
+Cluster 3 vs 5: U = 1194.0000000, p = 0.0000019 *
+Cluster 3 vs 8: U = 1091.0000000, p = 0.0000089 *
+Cluster 3 vs 7: U = 748.0000000, p = 0.0000032 *
+Cluster 2 vs 6: U = 968.0000000, p = 0.0039342 
+Cluster 2 vs 4: U = 1014.0000000, p = 0.0000404 *
+Cluster 2 vs 5: U = 870.0000000, p = 0.0010418 *
+Cluster 2 vs 8: U = 794.0000000, p = 0.0025339 
+Cluster 2 vs 7: U = 546.0000000, p = 0.0007014 *
+Cluster 6 vs 4: U = 653.5000000, p = 0.1265334 
+Cluster 6 vs 5: U = 575.0000000, p = 0.2597965 
+Cluster 6 vs 8: U = 521.5000000, p = 0.3592592 
+Cluster 6 vs 7: U = 354.0000000, p = 0.1814754 
+Cluster 4 vs 5: U = 466.0000000, p = 0.9817075 
+Cluster 4 vs 8: U = 440.5000000, p = 0.8868989 
+Cluster 4 vs 7: U = 277.0000000, p = 0.8932295 
+Cluster 5 vs 8: U = 352.0000000, p = 0.5197488 
+Cluster 5 vs 7: U = 238.0000000, p = 0.8534905 
+Cluster 8 vs 7: U = 234.0000000, p = 0.9170021 
